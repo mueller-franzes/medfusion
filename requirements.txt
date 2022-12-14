@@ -1,0 +1,17 @@
+torch # pip install torch --extra-index-url https://download.pytorch.org/whl/cu113
+numpy 
+sklearn
+pytorch-lightning
+pytorch_msssim
+monai
+torchmetrics
+torch-fidelity
+torchio 
+pillow
+einops
+torchvision
+matplotlib
+pandas 
+lpips
+
+streamlit
