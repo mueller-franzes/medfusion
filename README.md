@@ -1,21 +1,9 @@
----
-title: Medfusion App
-emoji: 🔬
-colorFrom: pink
-colorTo: gray
-sdk: streamlit
-sdk_version: 1.15.2
-app_file: streamlit/welcome.py
-pinned: false
-license: mit
----
-
 Medfusion - Medical Denoising Diffusion Probabilistic Model 
 =============
 
 Paper
 =======
-Please see: [**Diffusion Probabilistic Models beat GANs on Medical 2D Images**]()
+Please see: [**Diffusion Probabilistic Models beat GANs on Medical 2D Images**](https://arxiv.org/abs/2212.07501)
 
 ![](media/Medfusion.png)
 *Figure: Medfusion*
@@ -25,7 +13,7 @@ Please see: [**Diffusion Probabilistic Models beat GANs on Medical 2D Images**](
 
 Demo
 =============
-[Link]() to streamlit app.
+[Link](https://huggingface.co/spaces/mueller-franzes/medfusion-app) to streamlit app.
 
 Install
 =============
